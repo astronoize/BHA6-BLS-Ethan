@@ -15,10 +15,15 @@ The color doesn't come out beatifully, and the strength drops.
 
 ![science]({{site.baseurl}}/images/midterm presentation/mycelium.jpg)
 
+So, while thinking about how to grow 'Mycelium' and shape in the medium itself,
+I tried to think about making medium in 3-Dimensional.
+
 그래서 배지 자체에서 Mycelium을 생장시키고 형상을 만드는 방법을 생각하던 중, 
 배지를 3차원으로 만들어 보면 어떨까 하는 생각을 해보았다.
 
 ![science]({{site.baseurl}}/images/midterm presentation/medium.jpg)
+
+First of all, most important thing is making tray using an laser cut acrylic, instead of petridish.
 
 우선 패트리디시 대신에 아크릴을 이용하여 트레이를 만드는게 중요한데, 
 레이저커팅을 통해 투명 아크릴을 원하는 형상으로 커팅하고, 
