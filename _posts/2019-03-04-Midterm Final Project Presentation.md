@@ -46,6 +46,7 @@ Mycelium이 잘 자라나도록 습도가 적당히 유지되는 것이 중요�
 
 ![science]({{site.baseurl}}/images/midterm presentation/mycelium incubator.jpg)
 
+
 after all done the process, we don't need medium anymore, So it is necessary to dissolve the solid Agar.
 when reheats the agar, It gonna melt and at the same time the Mycelium is solidified.
 
