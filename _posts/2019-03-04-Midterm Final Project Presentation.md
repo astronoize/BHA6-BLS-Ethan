@@ -3,8 +3,6 @@ layout: post
 title: Final Project
 ---
 
-# Final Project
-
 ## 3-Dimensional Medium for Mycelium
 
 기존의 Mycelium은 나무 잔존물과 밀가루를 이용하여 기르게 되는데,
