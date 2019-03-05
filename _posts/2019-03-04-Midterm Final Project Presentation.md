@@ -31,6 +31,8 @@ Make a barrier so that the medium doesn't flow.
 레이저커팅을 통해 투명 아크릴을 원하는 형상으로 커팅하고, 
 배지가 흐르지 않도록 턱을 만들어 준다.
 
+![science]({{site.baseurl}}/images/midterm presentation/3.jpg)
+
 At the same time, Make a joint structure in 3-Dimensional, So that the shape can be maintained.
 
 동시에 3차원으로 조립되어 고정될 수 있도록 조인트 구조를 만들어
