@@ -23,7 +23,7 @@ I tried to think about making medium in 3-Dimensional.
 
 ![science]({{site.baseurl}}/images/midterm presentation/medium.jpg)
 
-First of all, most important thing is making tray using an laser cut acrylic, instead of petridish.
+First of all, most important thing is making tray using an laser cut acrylic, instead of petri dish.
 The transparent acrylic is cut into a desired shape through laser cutting, 
 Make a barrier so that the medium doesn't flow.
 
