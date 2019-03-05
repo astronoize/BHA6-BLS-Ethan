@@ -3,7 +3,7 @@ layout: post
 title: Final Project
 ---
 
-## 3-Dimensional Medium for Mycelium
+## 3-Dimensional Medium for growing Mycelium
 
 Common 'Mycelium' is grown using wood residues and flour.
 But, when you make the structure like this, using this kind of materials,
