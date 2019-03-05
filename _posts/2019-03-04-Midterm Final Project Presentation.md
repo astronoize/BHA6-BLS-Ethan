@@ -5,6 +5,10 @@ title: Final Project
 
 ## 3-Dimensional Medium for Mycelium
 
+Common 'Mycelium' is grown using wood residues and flour.
+But, when you make the structure like this, using this kind of materials,
+The color doesn't come out beatifully, and the strength drops.
+
 기존의 Mycelium은 나무 잔존물과 밀가루를 이용하여 기르게 되는데,
 이렇게 구조물을 만들게 되면, 나무 색이 대부분을 차지해 인테리어적으로
 색이 예쁘게 나오지 않고, 강도가 떨어지게 된다.
