@@ -32,6 +32,7 @@ Make a barrier so that the medium doesn't flow.
 배지가 흐르지 않도록 턱을 만들어 준다.
 
 At the same time, Make a joint structure in 3-Dimensional, So that the shape can be maintained.
+
 동시에 3차원으로 조립되어 고정될 수 있도록 조인트 구조를 만들어
 형상이 유지 될 수 있도록 한다.
 
